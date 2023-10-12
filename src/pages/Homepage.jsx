@@ -1,8 +1,12 @@
 import React from 'react'
+import Slider from '../components/Slider/Slider'
 
 function Homepage() {
   return (
-    <div>Homepage</div>
+    <div>
+        
+        <Slider />
+    </div>
   )
 }
 
